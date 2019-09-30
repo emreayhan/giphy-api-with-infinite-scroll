@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/giphy-api-with-infinite-scroll/static/css/main.21a4e158.chunk.css",
-    "main.js": "/giphy-api-with-infinite-scroll/static/js/main.3dfffcb6.chunk.js",
-    "main.js.map": "/giphy-api-with-infinite-scroll/static/js/main.3dfffcb6.chunk.js.map",
+    "main.js": "/giphy-api-with-infinite-scroll/static/js/main.06156cf8.chunk.js",
+    "main.js.map": "/giphy-api-with-infinite-scroll/static/js/main.06156cf8.chunk.js.map",
     "runtime-main.js": "/giphy-api-with-infinite-scroll/static/js/runtime-main.a8e6be99.js",
     "runtime-main.js.map": "/giphy-api-with-infinite-scroll/static/js/runtime-main.a8e6be99.js.map",
-    "static/js/2.92b94be9.chunk.js": "/giphy-api-with-infinite-scroll/static/js/2.92b94be9.chunk.js",
-    "static/js/2.92b94be9.chunk.js.map": "/giphy-api-with-infinite-scroll/static/js/2.92b94be9.chunk.js.map",
+    "static/js/2.1bb0b1b1.chunk.js": "/giphy-api-with-infinite-scroll/static/js/2.1bb0b1b1.chunk.js",
+    "static/js/2.1bb0b1b1.chunk.js.map": "/giphy-api-with-infinite-scroll/static/js/2.1bb0b1b1.chunk.js.map",
     "index.html": "/giphy-api-with-infinite-scroll/index.html",
-    "precache-manifest.aa43ae2dcd79f30cc67f3ec79cb98ceb.js": "/giphy-api-with-infinite-scroll/precache-manifest.aa43ae2dcd79f30cc67f3ec79cb98ceb.js",
+    "precache-manifest.4d94fb83d78556216f8e2b9a57ea8af0.js": "/giphy-api-with-infinite-scroll/precache-manifest.4d94fb83d78556216f8e2b9a57ea8af0.js",
     "service-worker.js": "/giphy-api-with-infinite-scroll/service-worker.js",
     "static/css/main.21a4e158.chunk.css.map": "/giphy-api-with-infinite-scroll/static/css/main.21a4e158.chunk.css.map"
   }
